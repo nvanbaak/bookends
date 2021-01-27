@@ -1,5 +1,9 @@
 # Bookends: Make Chrome window navigation easier
 
+## Deployed link
+
+> https://nvanbaak.github.io/bookends/
+
 ## Introduction
 
 Having difficulty navigating between eighteen windows of Google Chrome?  You're not alone.  So I came up with a quick solution.
@@ -13,4 +17,8 @@ Unless you don't organize your tabs by window.  In that case, only God can help 
 ## License
 
 This project uses the MIT license.
+
+## Check it out!
+
+> https://nvanbaak.github.io/bookends/
 
